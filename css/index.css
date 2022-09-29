@@ -1,0 +1,33 @@
+a{
+	color:blue;
+}
+#box0{
+	width:100%;
+	margin-top:100px;
+}
+#box1{
+	display:flex;
+	justify-content: center;
+	background-color:rgb(251,251,251);
+}
+#box1>div{
+	margin: 0 30px;
+	font-size:25px;
+}
+#box2{
+	display:flex;
+    align-items:stretch;
+}
+#box2>div{
+	font-size:25px;
+}
+#box3{
+	border-bottom:3px solid rgb(163,162,194);
+}
+#box4{
+	width:100%;
+	padding:10px 0;
+	background-color:rgb(182, 182, 182);
+	font-size:25px;
+	text-align:center;
+}
